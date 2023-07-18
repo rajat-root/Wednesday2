@@ -29,6 +29,7 @@ public class Student
     public void setName(String givenName) {
         name = givenName;
         int v = 3;
+        int x = 4;
     }
     
     
