@@ -28,7 +28,6 @@ public class StudentList {
        for(Student s: studentList)
        {
            System.out.println(s.getName());
-           String x = "rajat";
        }
         
     }
