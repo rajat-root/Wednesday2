@@ -30,6 +30,8 @@ public class Student
         name = givenName;
         int v = 3;
         int x = 4;
+        System.out.println(v+x);
+
     }
     
     
